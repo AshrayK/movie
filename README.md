@@ -23,7 +23,7 @@ If you are developing a production application, we recommend using TypeScript an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ashray/movie.git
+git clone https://github.com/AshrayK/movie.git
 cd movie
 
 Set Node Version (Optional but Recommended)
